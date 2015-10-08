@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# System cahce files
+.DS_Store
